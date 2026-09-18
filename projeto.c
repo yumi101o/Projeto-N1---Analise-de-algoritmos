@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+void OrganizarArq (int A[]; int B[]){
+
+}
+
 int lerArquivo() {
     FILE *arquivo;
     int numeroTeste;
@@ -14,9 +18,10 @@ int lerArquivo() {
     // Lendo um inteiro
     fscanf(arquivo, "%d", &numeroTeste);
 
-    for (int i = 1, i <= nuemroTeste, i++){
+    for (int i = 1; i <= nuemeroTeste; i++){
         int gb;
-        int nuemroArquivo;
+        int numeroArquivo;
+        int soma = 0
 
         fscanf(arquivo, "%d", &gb);
 
@@ -24,8 +29,23 @@ int lerArquivo() {
 
         fscanf(arquivo, "%d", &numeroArquivo);
 
-        for (int j = 1, j <= numeroArquivo, j++){
-            
+        int Documentos [numeroArquivo];
+        int PenDriveA [gb];
+        int PenDriveB [gb];
+
+        for (int j = 0; j <= numeroArquivo && soma < gb*2; j++){
+            fscanf(arquivo, "%d", &Documentos[j]);
+            soma = soma + Documentos[j];
+
+            if (soma > gb*2) {
+                printf("Impossível gravar todos os arquivos nos pendrives.\n");
+            }
+        }
+
+        if (soma < gb*2){
+
+
+
         }
 
 
