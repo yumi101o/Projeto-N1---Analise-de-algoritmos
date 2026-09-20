@@ -9,7 +9,7 @@ Integrantes do grupo:
 Link do vídeo no YouTube: [COLAR O LINK AQUI]
 
 Compilar:  gcc -o backup backup.c
-Executar:  ./backup <ARQUIVO_ENTRADA> <ARQUIVO_SAÍDA>
+Executar:  ./programa <ARQUIVO_ENTRADA> <ARQUIVO_SAÍDA>
 
 1) Técnica de projeto utilizada
 Programação Dinâmica, aplicada ao problema da soma de subconjuntos (subset sum).
