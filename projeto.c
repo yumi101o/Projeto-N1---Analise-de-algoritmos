@@ -22,7 +22,7 @@
 /* Mostra as mensagens de uso do programa. */
 void imprimirUso(void) {
     printf("Utilizar comando:\n");
-    printf("./backup <ARQUIVO_ENTRADA> <ARQUIVO_SAÍDA>\n");
+    printf("./programa <ARQUIVO_ENTRADA> <ARQUIVO_SAÍDA>\n");
 }
 
 /* Escreve no arquivo de saída os arquivos de um pendrive (um por linha). */
