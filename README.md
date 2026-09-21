@@ -3,7 +3,7 @@ Projeto e Análise de Algoritmos II - Backup offline do professor Leonardo
 
 Integrantes do grupo:
 - Beatriz savazzi Del Bianco - RA: 10735936
-- Laura Yummi  - RA: 10735
+- Laura Yummi Rodrigues Shiguemori  - RA: 10735619
 
 
 Link do vídeo no YouTube: [COLAR O LINK AQUI]
