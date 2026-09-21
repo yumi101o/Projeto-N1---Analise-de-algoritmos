@@ -6,7 +6,7 @@ Integrantes do grupo:
 - Laura Yummi Rodrigues Shiguemori  - RA: 10735619
 
 
-Link do vídeo no YouTube: [COLAR O LINK AQUI]
+Link do vídeo no YouTube: https://youtu.be/V-BmV4AKPKM?is=6LzlIzle5RE1-O-J
 
 Compilar:  gcc -o backup backup.c
 Executar:  ./programa <ARQUIVO_ENTRADA> <ARQUIVO_SAÍDA>
